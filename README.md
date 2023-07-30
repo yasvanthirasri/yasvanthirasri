@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Verilog coding to implement in my project
 - 💞️ I’m currently working on FPGA to encrypt an image
 - 📫 Published a paper titled "Implementation of chaos-based image encryption on FPGA"
-- presented at IEEE conference (ViteCon'23)
+- presented at the IEEE conference (ViteCon'23)
+-  Encryption Engineer by Day, FPGA Enthusiast by Night 🌙🎨
 
 <!---
 yasvanthirasri/yasvanthirasri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
